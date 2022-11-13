@@ -1,0 +1,162 @@
+@media only screen and (max-width: 1200px) {
+    .name{font-size: 18px;}
+    .header-bottom {height: 650px;}
+    .features-container img {width: 100%;}
+    .features-content-header h2 {font-size: 18px;}
+    .features-content-header p {font-size: 12px;}
+    .features-content {margin-top: 15px;}
+    .features-content .content-body img {width: 40px;height: 40px;}
+    .features-content .content-body .content .heading1 {font-size: 16px;}
+    .features-content .content-body .content .heading2{font-size: 16px;}
+    .features-content .content-body .content .heading3 {font-size: 16px;}
+    .features-content .content-body .content p {font-size: 14px;}
+    .features-content .content-body:nth-child(2), 
+    .features-content .content-body:nth-child(3) {margin-top: 5px;}
+}
+
+
+@media only screen and (max-width: 992px) {
+    .name {font-size: 30px;}
+    .header-bottom {height: 600px;}
+    .header-top {padding: 20px 0px;}
+    .header-content-left {margin-left: 0; margin-top: 0;}
+    .header-content-right {margin-top: 30px;margin-left: 40px;}
+    .header-content-right img {width: 80%;height: 412px;}
+    .header-content-left {margin-left: 0; margin-top: 100px;}
+    .header-content-middle h1 { max-width: 100%; font-size: 29px;}
+    .header-content-middle p {max-width: 100%;}
+    .header-content-bottom button {font-size: 8px;}
+    .companies-pic .row {flex-direction: column;}
+    .companies-pic img {width: 100px;margin: 30px auto;}
+    .companies-pic .row .img-4 {margin-top: 30px;}
+    .features-container {margin: 50px auto;}
+    .smart {flex: 0 0 auto;width: 26%;}
+    .smart-jackpots {margin-bottom: 32px;}
+    .smart-jackpots h3 {font-size: 20px;}
+    .smart-jackpots .vertical-rule {height: 91%;width: 2px;}
+    .smart-jackpots p {font-size: 12px;margin-top: 0;}
+    .automatic-payouts {width: 703px;margin-bottom: 50px;text-align: center;}
+    .automatic-content:nth-child(2) {padding-left: 0;}
+    .automatic-content:nth-child(3) {padding-left: 0px;}
+    .designed-img {width: 100%;}
+    .designed-img img {width: 100%;}
+    .designed-content {width: 100%;}
+    .Designed-build {width: 720px;}
+    .designed-content h3 {font-size: 20px;margin-top: 38px;}
+    .designed-content p {font-size: 14px;}
+    .designed-content .button {padding: 5px 23px;font-size: 14px;}
+    .choose-app {width: 720px;}
+    .choose-header h2 {font-size: 22px;}
+    .choose-footer h3 {font-size: 16px;}
+    .choose-footer p {font-size: 12px;}
+    .features-planning {width: 720px;}
+    .features-planning {margin-top: 100px;margin-bottom: 80px;}
+    .features-card {width: 720px;}
+    .client-satisfaction {padding-top: 58px;}
+    .client-content-1, .client-content-2, .client-content-3 {width: 80%;}
+    .client-content-1 h3{font-size: 25px;}
+    .client-content-2 h4 {font-size: 24px;}
+    .arry{display: flex;margin-left: 0;}
+    .arry img{width: 32px;margin-left: 10px;}
+    .client-content-3 .client {width: 50px;}
+    .client-info {margin: 10px 10px;}
+    .client-info h3 {font-size: 14px;}
+    .client-info p {font-size: 14px;}
+    .faq{width: 720px;}
+    .download-app h3 {font-size: 23px;}
+    .download-app p {font-size: 10px;}
+    .download-app img {width: 60px;margin-bottom: 20px;}
+}
+
+@media only screen and (max-width: 768px) {
+    .header-bottom {height: 730px;}
+    .header-content-left {margin-top: 27px;text-align: center;}
+    .header-content-top {justify-content: center; margin-top: 50px;}
+    .header-content-top i {left: 124px;}
+    .header-content-right {margin-top: 0;margin-left: 0;}
+    .header-content-right img {width: 40%;height: auto;margin: 36px auto;}
+    .header-content-right img {width: 40%;height: auto;margin: 36px auto;}
+    .features-container {margin: 25px auto;}
+    .features-content-header h2 {font-size: 20px;text-align: center;}
+    .features-content-header p {font-size: 12px;text-align: center;}
+    .features-content {margin-top: 40px;text-align: center;}
+    .features-content .content-body {display: flex;justify-content: center;align-items: center;flex-direction: column;}
+    .features-content .content-body img {width: 50px;height: 50px;margin-left: 30px;margin-bottom: 10px;}
+    .features-content-header {width: 100%;margin: auto;}
+    .smart {width: 20%;margin-top: 50px;}
+    .automatic-payouts {width: 100%;}
+    .designed-img {width: 100%;margin: 0 78px;}
+    .designed-img img { width: 50%;}
+    .designed-content {margin: 0 93px;}
+    .choose-app {width: 100%;}
+    .features-planning {margin-top: 0px;margin-bottom: 0px;text-align: center;width: 100%;}
+    .plan-img {max-width: 80%;margin: auto;}
+    .plan-img img {margin-top: -60px;margin-bottom: 20px;max-width: 100%;}
+    .features-planning .row {flex-direction: column-reverse;}
+    .features-card {width: 100%;}
+    .card-content {padding: 0;margin-top: 80px;}
+    .card-body {width: 50%;}
+    .card-left, .card-right {margin: 20px;}
+    .client-img {width: 60%;margin: auto;}
+    .client-content-1, .client-content-2 {width: 70%;margin: auto;text-align: center;padding-top: 40px;}
+    .client-content-2 p {font-size: 11px;}
+    .client-content-3 .client {width: 10%;}
+    .client-content-3 {justify-content: center;width: 70%;margin: -11px auto;text-align: center;}
+    .ask .container, .container-sm {max-width: 100%; }
+    .faq {width: 70%;margin-top: 100px;margin-bottom: 50px;}
+    .download-app {padding-top: 15%;text-align: center;}
+}
+
+@media only screen and (max-width: 600px) {
+    .name {font-size: 20px; }
+    .navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {justify-content: space-around;}
+    .navbar-toggler-icon {width: 20px;height: 19px;}
+    .header-content-top i {display: none;}
+    .header-content-top p {font-size: 12px;padding: 4px -1px;}
+    .header-content-middle h1 {width: 100%;font-size: 30px;margin: 16px auto;}
+    .header-content-middle p {width: 100%;font-size: 16px;padding-top: 16px;}
+    .header-content-right img {width: 30%;height: auto;margin: 44px auto;}
+    .header-bottom {height: auto;}
+    .companies-header h2 {margin-top: 50px;}
+    .companies-pic img {width: 20%;}
+    .automatic-content {flex-shrink: 0; width: 80%;max-width: 100%;padding-right: calc(var(--bs-gutter-x) * .5);padding-left: calc(var(--bs-gutter-x) * .5);margin-top: var(--bs-gutter-y);margin: auto;}
+   .smart-jackpots {width: 100%;margin: 50px auto;}
+    .smart {width: 80%;margin: 5px auto;text-align: center;}
+    .Designed-build { width: 100%;margin: 0 35px;}
+    .designed-img {width: 100%;margin: 0 100px;}
+    .designed-img img { width: 50%;}
+    .designed-content {width: 50%;text-align: center;}
+    .choose-app {margin-top: 60px;margin-bottom: 100px;}
+    .choose-header {width: 80%;margin: auto;}
+    .choose-footer { width: 50%;margin: auto;}
+    .planning-content {width: 60%;margin: auto;}
+    .planning-content h4 {font-size: 28px;}
+    .planning-content p {font-size: 13px; margin-bottom: 20px;}
+    .features-card {width: 70%;margin: auto;}
+    .card-body {width: 70%;}
+    .card-left-top .span-1 {padding-top: 10px;}
+    .card-left-top span {font-size: 30px;}
+    .card-left-top h4 {font-size: 14px;}
+    .card-left-top p {font-size: 10px;}
+    .card-left-bottom p {font-size: 10px;}
+    .card-left .card-left-bottom button {margin-top: -15px;padding: 2px 8px;font-size: 10px;}
+    .card-right-top .span-1 {padding-top: 10px;}
+    .card-right-top span { font-size: 30px;}
+    .card-right-top h4 {font-size: 14px;}
+    .card-right-top p {font-size: 10px;}
+    .card-right-bottom p {font-size: 10px;}
+    .card-right  .card-right-bottom button {margin-top: -15px;padding: 2px 8px;font-size: 10px; }
+    .client-content-1, .client-content-2 {width: 60%;}
+    .accordion-item, strong {font-weight: bolder;font-size: 12px;}
+    .accordion-body {font-size: 10px;font-weight: normal;}
+    .download-content {width: 80%;margin: auto;}
+} 
+
+
+
+
+
+
+
+
+
